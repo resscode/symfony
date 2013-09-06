@@ -1,0 +1,4 @@
+acme_bug_tracking_system:
+    resource: "@AcmeBugTrackingSystemBundle/Resources/config/routing.yml"
+    prefix:   /
+

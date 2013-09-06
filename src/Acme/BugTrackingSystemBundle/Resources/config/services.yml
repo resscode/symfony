@@ -1,0 +1,7 @@
+parameters:
+#    acme_bug_tracking_system.example.class: Acme\BugTrackingSystemBundle\Example
+
+services:
+#    acme_bug_tracking_system.example:
+#        class: %acme_bug_tracking_system.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
